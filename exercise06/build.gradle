@@ -25,5 +25,5 @@ run {
 }
 
 application {
-    mainClass = "solution06"
+    mainClass = "Solution06"
 }
