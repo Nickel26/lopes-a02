@@ -5,6 +5,12 @@ import java.util.Scanner;
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 Nicholas Lopes
  */
+/*
+Prompt user for current age and store input in int age
+Prompt user for retirement age and store input in int ret_age
+Display years left till retirement (retirement age - age)
+Display current year and retirement year (current year + (retirement age - age))
+ */
 
 public class Solution06 {
     private static final Scanner in = new Scanner(System.in);
