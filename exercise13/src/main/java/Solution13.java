@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 /*
- *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
  *  Copyright 2021 Nicholas Lopes
  */
 /*
